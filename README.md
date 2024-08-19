@@ -35,3 +35,6 @@ whole project analysis ,building model ,website(api)
 
 ## Step 8: Deployment
 - Deploy the API on Heroku.
+- deploy image heroko\
+
+<img src='https://github.com/rpjinu/Movies_Recommendation_System/blob/main/api_streamlit.jpeg' width='1200'>
